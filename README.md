@@ -5,10 +5,10 @@ I'm a Computer Science student at the University of León with a passion for cyb
 
 ### Most used languages
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=aiglea01&layout=compact&theme=blood)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=aiglea01&layout=compact&theme=dracula)
 
 ## My activity
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=aiglea01&show_icons=true&theme=blood)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=aiglea01&show_icons=true&theme=dracula)
 
 ## 🔧 Technologies that I use the most:
 
